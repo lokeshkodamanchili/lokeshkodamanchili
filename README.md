@@ -1,33 +1,32 @@
-<!-- Profile README for lokeshkodamanchili -->
-![Lokesh introduction](./assets/hero.svg?v=1)
+<!-- Animated profile: self-contained SVGs, licensed fonts, reduced-motion fallbacks. -->
+![Lokesh Kodamanchili — video editing, data analytics, vibe coding and AI/ML](./assets/hero.svg?v=1)
 
 [About](#about) · [Toolkit](#toolkit) · [Projects](#projects) · [Connect](#connect)
 
 <a id="about"></a>
 
-![About Lokesh](./assets/about-life.svg?v=1)
+![Capabilities and interests carousel](./assets/about-life.svg?v=1)
 
 <a id="toolkit"></a>
 
-![Technology toolkit](./assets/stack.svg?v=1)
+![Technology orbits and grouped toolkit](./assets/stack.svg?v=1)
 
 <a id="projects"></a>
 
-![Builder identity](./assets/id-dashboard.svg?v=1)
+![Animated builder ID and selected projects](./assets/id-dashboard.svg?v=1)
 
 ### Selected projects
 
-| Project | What it explores | Links |
+| Project | What I’m building | Explore |
 | :--- | :--- | :--- |
-| **STUDENT 360** | Academic performance, student activities and institutional dashboards. | [Web platform](https://github.com/lokeshkodamanchili/STUDENT-360) · [Electron exam client](https://github.com/lokeshkodamanchili/STUDENT-360-ELECTRON-APP) |
-| **Citizen AI** | Civic questions with IBM watsonx, feedback classification and sentiment summaries using FastAPI and SQLite. | [Source and demo](https://github.com/lokeshkodamanchili/Citizen-AI-Intelligent-Citizen-Engagement-Platform) |
-| **TimeCapsule** | Academic resource sharing with Microsoft 365 approval and access workflows. | [Source](https://github.com/lokeshkodamanchili/TimeCapsule) · [Website](https://lokeshkodamanchili.github.io/TimeCapsule/) |
-| **Bhai PDFs Feedback** | Student reviews, star ratings and feedback analytics with Supabase and Chart.js. | [Source](https://github.com/lokeshkodamanchili/feedback-site) · [Website](https://lokeshkodamanchili.github.io/feedback-site/) |
+| **STUDENT 360** | Academic performance, student activities and institutional dashboards, with an integrated desktop exam client. | [Web platform](https://github.com/lokeshkodamanchili/STUDENT-360) · [Electron client](https://github.com/lokeshkodamanchili/STUDENT-360-ELECTRON-APP) |
+| **Citizen AI** | Civic questions through IBM watsonx, feedback classification and sentiment summaries with FastAPI and SQLite. | [Source and demo](https://github.com/lokeshkodamanchili/Citizen-AI-Intelligent-Citizen-Engagement-Platform) |
+| **TimeCapsule** | Academic resource sharing through Microsoft 365 approval and access workflows. | [Repository](https://github.com/lokeshkodamanchili/TimeCapsule) · [Live website](https://lokeshkodamanchili.github.io/TimeCapsule/) |
 
 <a id="connect"></a>
 
-![Connect with Lokesh](./assets/connect.svg?v=1)
+![Connect with Lokesh on GitHub, CodeChef and HackerRank](./assets/connect.svg?v=1)
 
-**[Explore my repositories](https://github.com/lokeshkodamanchili?tab=repositories)** · **[GitHub profile](https://github.com/lokeshkodamanchili)**
+**[GitHub](https://github.com/lokeshkodamanchili)** · **[CodeChef](https://www.codechef.com/users/lokesh_2804)** · **[HackerRank](https://www.hackerrank.com/profile/23P31A4237)**
 
-<sub>Built around AI, data and practical automation. SVG visuals include reduced-motion support and readable static states.</sub>
+<sub>Video editing · Data analytics · Vibe coding · AI/ML</sub>
