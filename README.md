@@ -1,19 +1,19 @@
 <!-- Animated profile: self-contained SVGs, licensed fonts, reduced-motion fallbacks. -->
-![Lokesh Kodamanchili — video editing, data analytics, vibe coding and AI/ML](./assets/hero.svg?v=1)
+![Lokesh Kodamanchili — video editing, data analytics, vibe coding and AI/ML](./assets/hero.svg?v=2)
 
 [About](#about) · [Toolkit](#toolkit) · [Projects](#projects) · [Connect](#connect)
 
 <a id="about"></a>
 
-![Capabilities and interests carousel](./assets/about-life.svg?v=1)
+![Capabilities and interests carousel](./assets/about-life.svg?v=2)
 
 <a id="toolkit"></a>
 
-![Technology orbits and grouped toolkit](./assets/stack.svg?v=1)
+![Technology orbits and grouped toolkit](./assets/stack.svg?v=2)
 
 <a id="projects"></a>
 
-![Animated builder ID and selected projects](./assets/id-dashboard.svg?v=1)
+![Animated builder ID and selected projects](./assets/id-dashboard.svg?v=2)
 
 ### Selected projects
 
@@ -25,7 +25,7 @@
 
 <a id="connect"></a>
 
-![Connect with Lokesh on GitHub, CodeChef and HackerRank](./assets/connect.svg?v=1)
+![Connect with Lokesh on GitHub, CodeChef and HackerRank](./assets/connect.svg?v=2)
 
 **[GitHub](https://github.com/lokeshkodamanchili)** · **[CodeChef](https://www.codechef.com/users/lokesh_2804)** · **[HackerRank](https://www.hackerrank.com/profile/23P31A4237)**
 
